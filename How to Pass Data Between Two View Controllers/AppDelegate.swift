@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  How to Pass Data Between Two View Controllers
 //
-//  Created by Ilija Mihajlovic on 9/10/18.
-//  Copyright © 2018 Ilija Mihajlovic. All rights reserved.
+//  Created by Ilija Mihajlovic on 9/10/17.
+//  Copyright © 2017 Ilija Mihajlovic. All rights reserved.
 //
 
 import UIKit
