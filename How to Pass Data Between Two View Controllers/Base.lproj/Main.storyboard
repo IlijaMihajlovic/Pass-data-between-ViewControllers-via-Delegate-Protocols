@@ -228,7 +228,7 @@
                                     <button opaque="NO" contentMode="scaleAspectFill" horizontalCompressionResistancePriority="748" verticalCompressionResistancePriority="748" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tbA-VA-sAv">
                                         <rect key="frame" x="0.0" y="70" width="343" height="39"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                        <state key="normal" title="Press To Second "/>
+                                        <state key="normal" title="Press To Send"/>
                                         <variation key="heightClass=regular-widthClass=compact">
                                             <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                         </variation>
