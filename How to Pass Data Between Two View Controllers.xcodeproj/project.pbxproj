@@ -14,6 +14,7 @@
 		2409E70B2146544000D0D8F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2409E7092146544000D0D8F2 /* LaunchScreen.storyboard */; };
 		2409E713214654BC00D0D8F2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2409E712214654BC00D0D8F2 /* SecondViewController.swift */; };
 		2409E7152146719900D0D8F2 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2409E7142146719900D0D8F2 /* Extension.swift */; };
+		24C320942149651D006A23B4 /* blurredBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 24C320932149651D006A23B4 /* blurredBackground.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2409E70C2146544000D0D8F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2409E712214654BC00D0D8F2 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2409E7142146719900D0D8F2 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		24C320932149651D006A23B4 /* blurredBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blurredBackground.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2409E7072146544000D0D8F2 /* Assets.xcassets */,
 				2409E7092146544000D0D8F2 /* LaunchScreen.storyboard */,
 				2409E70C2146544000D0D8F2 /* Info.plist */,
+				24C320932149651D006A23B4 /* blurredBackground.png */,
 			);
 			path = "How to Pass Data Between Two View Controllers";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24C320942149651D006A23B4 /* blurredBackground.png in Resources */,
 				2409E70B2146544000D0D8F2 /* LaunchScreen.storyboard in Resources */,
 				2409E7082146544000D0D8F2 /* Assets.xcassets in Resources */,
 				2409E7062146543F00D0D8F2 /* Main.storyboard in Resources */,
