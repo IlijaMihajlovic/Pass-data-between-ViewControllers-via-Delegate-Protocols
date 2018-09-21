@@ -6,5 +6,6 @@ ___
 * First View Controller with keyboard and input 
 <img src="Images/SendDataBetweenVC.jpg" width="800" >
 ___
-* First View Controller with epmty text field
+
+* First View Controller with empty text field
 <img src="Images/PassDataBetweenVCFirstScreen.jpg" width="800" >
