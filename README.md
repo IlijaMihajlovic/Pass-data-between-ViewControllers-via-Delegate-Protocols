@@ -16,6 +16,8 @@ ___
 * Second View Controller with an alert controller
 <img src="Images/PassDataBetweenVCInvalidInput.jpg" width="800" >
 
+___
+
 ## License
 ```
 MIT License
