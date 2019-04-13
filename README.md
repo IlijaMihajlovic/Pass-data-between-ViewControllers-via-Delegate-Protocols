@@ -1,6 +1,20 @@
 # Pass data between ViewControllers via Delegate Protocols
 Pass data between ViewControllers via Delegate & Protocols using the Swift Programming Language
 ___
+
+## Side Note
+* Currently, I do not have an iPhone, so I'm unable to test the app on a physical device. I apologize in advance for maybe possible bugs.
+
+   Kind regards,
+
+   Ilija 🖖 😄
+___
+
+## Getting the files
+
+Use GitHub to clone the repository locally, or download the .zip file of the repository and extract the files.
+___
+
 ## Example how the UI looks
 
 * First View Controller with a keyboard and input 
